@@ -1,0 +1,1 @@
+# num-of-sqr-and-cubes
